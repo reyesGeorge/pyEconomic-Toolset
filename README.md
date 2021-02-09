@@ -8,10 +8,14 @@ a collection of jupyter notebooks relating to statistics, data cleaning and quan
   - Dealing w/ Missing Data
 
 **Economics**
-  - Coming soon
+  - Sharpe Ratio and Portfolio Allocation Notebook
+  - Portfolio Optimization Coming Soon
+  
   
 **Linear Algebra**
   - Common Methods Used
   
 **Statistics**
   - Linear Regression
+  - Logistic Regression Coming Soon
+  - Sampling + Tests Coming Soon
